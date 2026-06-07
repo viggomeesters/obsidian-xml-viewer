@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">XML Viewer hero</title>
+  <desc id="desc">A dark XML tree viewer interface with search, source toggle, and XML nodes.</desc>
+  <rect width="1280" height="420" fill="#111318"/>
+  <rect x="70" y="54" width="1140" height="312" rx="14" fill="#1b1f2a" stroke="#343b4f"/>
+  <text x="110" y="116" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700">XML Viewer</text>
+  <text x="110" y="154" fill="#aeb7c8" font-family="Inter, Arial, sans-serif" font-size="20">Read-only tree and source view for .xml files</text>
+  <rect x="110" y="190" width="355" height="118" rx="8" fill="#121620" stroke="#343b4f"/>
+  <text x="132" y="226" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="20">&lt;soap:Envelope&gt;</text>
+  <text x="162" y="258" fill="#ffad4d" font-family="SFMono-Regular, Menlo, monospace" font-size="18">@xmlns:soap</text>
+  <text x="162" y="290" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="18">&lt;soap:Body&gt;</text>
+  <rect x="522" y="86" width="590" height="220" rx="8" fill="#0f131b" stroke="#343b4f"/>
+  <rect x="546" y="112" width="210" height="34" rx="6" fill="#1f2633" stroke="#3c455c"/>
+  <text x="568" y="135" fill="#aeb7c8" font-family="Inter, Arial, sans-serif" font-size="15">Filter nodes</text>
+  <rect x="776" y="112" width="70" height="34" rx="6" fill="#273244"/>
+  <text x="794" y="135" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="15">Tree</text>
+  <rect x="852" y="112" width="82" height="34" rx="6" fill="#171c26" stroke="#3c455c"/>
+  <text x="869" y="135" fill="#aeb7c8" font-family="Inter, Arial, sans-serif" font-size="15">Source</text>
+  <text x="552" y="184" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="18">note</text>
+  <text x="628" y="184" fill="#7f8a9f" font-family="SFMono-Regular, Menlo, monospace" font-size="13">element · 1 attrs · 4 children</text>
+  <text x="582" y="220" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">to</text>
+  <text x="640" y="220" fill="#f2f2f2" font-family="SFMono-Regular, Menlo, monospace" font-size="17">Tove</text>
+  <text x="582" y="252" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">body</text>
+  <text x="650" y="252" fill="#f2f2f2" font-family="SFMono-Regular, Menlo, monospace" font-size="17">Do not forget me this weekend.</text>
+</svg>

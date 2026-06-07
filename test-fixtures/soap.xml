@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:GetStatusResponse xmlns:m="https://example.com/status">
+      <m:Status>OK</m:Status>
+      <m:UpdatedAt>2026-06-07T20:40:00Z</m:UpdatedAt>
+    </m:GetStatusResponse>
+  </soap:Body>
+</soap:Envelope>

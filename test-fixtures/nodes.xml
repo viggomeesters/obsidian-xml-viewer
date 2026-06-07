@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<document>
+  <!-- visible comment -->
+  <payload><![CDATA[<unsafe-looking>content</unsafe-looking>]]></payload>
+  <message lang="nl">Hallo XML</message>
+</document>

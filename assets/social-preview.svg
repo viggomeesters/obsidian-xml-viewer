@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">XML Viewer social preview</title>
+  <desc id="desc">Social preview for XML Viewer.</desc>
+  <rect width="1280" height="640" fill="#111318"/>
+  <text x="92" y="150" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">XML Viewer</text>
+  <text x="96" y="210" fill="#aeb7c8" font-family="Inter, Arial, sans-serif" font-size="30">Read-only tree and source view for .xml files</text>
+  <rect x="96" y="280" width="590" height="220" rx="14" fill="#1b1f2a" stroke="#343b4f"/>
+  <text x="136" y="344" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="28">&lt;config environment="test"&gt;</text>
+  <text x="176" y="392" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="24">&lt;feature enabled="true"&gt;</text>
+  <text x="176" y="440" fill="#39d98a" font-family="SFMono-Regular, Menlo, monospace" font-size="24">&lt;![CDATA[local only]]&gt;</text>
+  <rect x="760" y="280" width="380" height="220" rx="14" fill="#10141d" stroke="#343b4f"/>
+  <text x="800" y="342" fill="#e6d85c" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Tree view</text>
+  <text x="800" y="390" fill="#e6d85c" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Source view</text>
+  <text x="800" y="438" fill="#e6d85c" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Parse warnings</text>
+</svg>

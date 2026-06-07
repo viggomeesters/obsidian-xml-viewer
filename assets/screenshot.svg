@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">XML Viewer screenshot</title>
+  <desc id="desc">Screenshot mock of XML Viewer showing a tree view, summary pills, warnings, and outline.</desc>
+  <rect width="1200" height="720" fill="#0f1117"/>
+  <rect x="48" y="42" width="1104" height="636" rx="10" fill="#181c25" stroke="#303749"/>
+  <text x="78" y="88" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">response.xml</text>
+  <text x="78" y="116" fill="#8e99ad" font-family="SFMono-Regular, Menlo, monospace" font-size="14">20_files/2026-06/response.xml</text>
+  <rect x="680" y="62" width="190" height="34" rx="6" fill="#10141d" stroke="#303749"/>
+  <text x="704" y="85" fill="#8e99ad" font-family="Inter, Arial, sans-serif" font-size="14">Filter</text>
+  <rect x="888" y="62" width="68" height="34" rx="6" fill="#273244"/>
+  <text x="908" y="85" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="14">Tree</text>
+  <rect x="962" y="62" width="82" height="34" rx="6" fill="#10141d" stroke="#303749"/>
+  <text x="978" y="85" fill="#8e99ad" font-family="Inter, Arial, sans-serif" font-size="14">Source</text>
+  <rect x="1056" y="62" width="34" height="34" rx="6" fill="#10141d" stroke="#303749"/>
+  <text x="1067" y="86" fill="#8e99ad" font-family="Inter, Arial, sans-serif" font-size="18">↻</text>
+  <rect x="78" y="146" width="92" height="26" rx="13" fill="#10141d" stroke="#303749"/>
+  <text x="96" y="164" fill="#f8fafc" font-family="SFMono-Regular, Menlo, monospace" font-size="13">18 nodes</text>
+  <rect x="184" y="146" width="118" height="26" rx="13" fill="#10141d" stroke="#303749"/>
+  <text x="202" y="164" fill="#f8fafc" font-family="SFMono-Regular, Menlo, monospace" font-size="13">18 rendered</text>
+  <rect x="316" y="146" width="116" height="26" rx="13" fill="#10141d" stroke="#303749"/>
+  <text x="337" y="164" fill="#f8fafc" font-family="SFMono-Regular, Menlo, monospace" font-size="13">well-formed</text>
+  <rect x="78" y="194" width="760" height="430" rx="8" fill="#10141d" stroke="#303749"/>
+  <text x="112" y="236" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">soap:Envelope</text>
+  <text x="270" y="236" fill="#8e99ad" font-family="SFMono-Regular, Menlo, monospace" font-size="13">element · 1 attrs · 1 children</text>
+  <text x="132" y="270" fill="#ffad4d" font-family="SFMono-Regular, Menlo, monospace" font-size="15">xmlns:soap</text>
+  <text x="236" y="270" fill="#e6d85c" font-family="SFMono-Regular, Menlo, monospace" font-size="15">"http://schemas.xmlsoap.org/soap/envelope/"</text>
+  <text x="142" y="318" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">soap:Body</text>
+  <text x="170" y="366" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">m:GetStatusResponse</text>
+  <text x="198" y="414" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">m:Status</text>
+  <text x="312" y="414" fill="#f2f2f2" font-family="SFMono-Regular, Menlo, monospace" font-size="17">OK</text>
+  <text x="198" y="462" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="17">m:UpdatedAt</text>
+  <text x="344" y="462" fill="#f2f2f2" font-family="SFMono-Regular, Menlo, monospace" font-size="17">2026-06-07T20:40:00Z</text>
+  <rect x="866" y="194" width="234" height="430" rx="8" fill="#10141d" stroke="#303749"/>
+  <text x="892" y="228" fill="#8e99ad" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OUTLINE</text>
+  <text x="892" y="268" fill="#59c8ff" font-family="SFMono-Regular, Menlo, monospace" font-size="15">soap:Envelope</text>
+  <text x="892" y="292" fill="#8e99ad" font-family="SFMono-Regular, Menlo, monospace" font-size="12">/soap:Envelope[1]</text>
+</svg>

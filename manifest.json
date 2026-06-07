@@ -1,0 +1,10 @@
+{
+  "id": "xml-viewer",
+  "name": "XML Viewer",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Open .xml files as a read-only tree with search, source view, and parse warnings.",
+  "author": "Viggo Meesters",
+  "authorUrl": "https://github.com/viggomeesters",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:cfg="https://example.com/config" cfg:environment="test">
+  <cfg:item cfg:key="api.timeout">30</cfg:item>
+  <cfg:item cfg:key="feature.enabled">true</cfg:item>
+</catalog>
